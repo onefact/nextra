@@ -16,7 +16,8 @@
     "nextra": "workspace:*",
     "nextra-theme-docs": "workspace:*",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@uwdata/vgplot": "^0.3.2"
   },
   "devDependencies": {
     "@svgr/webpack": "^8.0.1",
